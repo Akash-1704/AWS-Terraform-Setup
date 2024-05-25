@@ -1,4 +1,4 @@
- AWS Terraform Setup
+** AWS Terraform Setup**
 
 This repository contains Terraform configuration files to set up a secure and scalable web application infrastructure on AWS. The setup includes a VPC, public and private subnets ,nat gateway , internet gateway, EC2 instances, an RDS MySQL database, and an S3 bucket for static content.
 
@@ -11,7 +11,7 @@ This repository contains Terraform configuration files to set up a secure and sc
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/aws-terraform-setup.git
+    git clone https://github.com/Akash-1704/AWS-Terraform-Setup.git
     cd terraform
     ```
 
